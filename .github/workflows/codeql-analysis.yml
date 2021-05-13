@@ -67,6 +67,7 @@ jobs:
     #   make bootstrap
     #   make release
 
-    - name: Perform CodeQL Analysis
-      uses: github/codeql-action/analyze@v1 
+    - name: Nitin Saxena
+      uses: github/codeql-action/analyze@v1
+ 
 Search the youtuber harsh beniwal
